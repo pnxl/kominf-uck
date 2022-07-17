@@ -72,8 +72,8 @@ export default function App() {
               out.
             </p>
             <h2 className="text-center text-xl font-medium">
-              Remember people, arbitrary censorship is a clear violation of
-              human rights!
+              Remember people, arbitrary censorship is a violation of our
+              rights!
             </h2>
           </div>
         </div>
